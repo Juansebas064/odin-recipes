@@ -1,0 +1,29 @@
+*{
+    font-family: sans-serif;
+}
+
+h1, h2{
+    color: #0455b8;
+    text-align: center;
+    text-decoration: overline;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h3{
+    color: #d66872;
+}
+
+#dishes a,#dishes li{
+    font-family: Georgia;
+    text-decoration: none;
+    font-size: 28px;
+    color: #f9897d;
+    list-style-type: lower-greek;
+}
+
+#dishes a:visited{
+    color: #9b5d48;
+}
