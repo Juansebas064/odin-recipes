@@ -1,3 +1,3 @@
-**HTML Basics, from The Odin Project - Foundations**
+# Recipes, from The Odin Project - Foundations
 
-Here's an example website with lists, images, links and text formatting. Nothing special, just starting.
+Here are a few dishes from my loved country, Colombia. As an excercise to practice HTML and a little of CSS, this website has an index and links to different typical recipes. Enjoy!
