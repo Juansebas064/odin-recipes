@@ -16,7 +16,12 @@ h3{
     color: #d66872;
 }
 
-#dishes a,#dishes li{
+img{
+    width: 800px;
+    height: auto;
+}
+
+a,#dishes li{
     font-family: Georgia;
     text-decoration: none;
     font-size: 28px;
@@ -24,6 +29,16 @@ h3{
     list-style-type: lower-greek;
 }
 
-#dishes a:visited{
-    color: #9b5d48;
+.ingredients{
+    font-size: 20px;
+    font-weight: bold;
+    color: #b17803;
+    list-style-type: square;
+    background-color: aliceblue;
+}
+
+.instructions{
+    font-size: 20px;
+    font-weight: bold;
+    color: cadetblue;
 }
